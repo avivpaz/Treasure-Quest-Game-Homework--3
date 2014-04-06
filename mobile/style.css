@@ -1,0 +1,112 @@
+﻿body
+{
+    direction: rtl;
+}
+IMG
+{
+    width: 100%;
+}
+div, h1, h2, p
+{
+    text-align: center;
+}
+.project
+{
+    width: 100%;
+}
+.studentImage
+{
+    width: 80%;
+}
+html, body, #map-canvas, #puiDiv
+{
+    height: 95%;
+    margin: 0px;
+    padding: 0px;
+    background-color: Grey;
+}
+table
+{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#distLBL, #timerLBL
+{
+    font-size: 1.5em;
+    display: inline;
+}
+
+#navBTN
+{
+    height: 90%;
+    width: 70px;
+}
+#cont1
+{
+    height: 40px;
+    background-color: #5882FA;
+    font-size: 1.5em;
+    color: White;
+}
+#puiDiv
+{
+    font-size: larger;
+    color: black;
+    display: none;
+}
+ul
+{
+    list-style-type: none;
+}
+#footer
+{
+    height: 40px;
+    background-color: #5882FA;
+}
+input#goiBtn, input#backToTheMapBTN, input#getPictureBtn
+{
+    border: 2px groove #7c93ba;
+    cursor: pointer; /*forces the cursor to change to a hand when the button is hovered*/
+    padding: 5px 25px; /*give the background a gradient - see cssdemos.tupence.co.uk/gradients.htm for more info*/
+    background-color: #6b6dbb; /*required for browsers that don't support gradients*/
+    background: -webkit-gradient(linear, left top, left bottom, from(#88add7), to(#6b6dbb));
+    background: -webkit-linear-gradient(top, #88add7, #6b6dbb);
+    background: -moz-linear-gradient(top, #88add7, #6b6dbb);
+    background: -o-linear-gradient(top, #88add7, #6b6dbb);
+    background: linear-gradient(top, #88add7, #6b6dbb); /*style to the text inside the button*/
+    font-family: Andika, Arial, sans-serif; /*Andkia is available at http://www.google.com/webfonts/specimen/Andika*/
+    color: #fff;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    font-variant: small-caps; /*give the corners a small curve*/
+    -webkit-border-radius: 0 15px 15px 0;
+    -moz-border-radius: 0 15px 15px 0;
+    border-radius: 0 15px 15px 0; /*add a drop shadow to the button*/
+    -webkit-box-shadow: rgba(0, 0, 0, .75) 0 2px 6px;
+    -moz-box-shadow: rgba(0, 0, 0, .75) 0 2px 6px;
+    box-shadow: rgba(0, 0, 0, .75) 0 2px 6px;
+}
+/***NOW STYLE THE BUTTON'S HOVER AND FOCUS STATES***/
+input#goiBtn:hover, input#goiBtn:focus, input#backToTheMapBTN:hover, input#backToTheMapBTN:focus, input#getPictureBtn:hover, input#getPictureBtn:focus
+{
+    color: #edebda; /*reduce the spread of the shadow to give a pushed effect*/
+    -webkit-box-shadow: rgba(0, 0, 0, .25) 0 1px 0px;
+    -moz-box-shadow: rgba(0, 0, 0, .25) 0 1px 0px;
+    box-shadow: rgba(0, 0, 0, .25) 0 1px 0px;
+}
+/***FIRST STYLE THE BUTTON***/
+input#navBTN, input#poiBtn, input#placesBTN
+{
+    cursor: pointer; /*forces the cursor to change to a hand when the button is hovered*/
+    background: #C0C0C0;; /*the colour of the button*/
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /*give the button a drop shadow*/
+    -webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+    -moz-box-shadow: 0 0 4px rgba(0,0,0, .75);
+    box-shadow: 0 0 4px rgba(0,0,0, .75); /*style the text*/
+    color:Black     ;
+     
+}
+/***NOW STYLE THE BUTTON'S HOVER AND FOCUS STATES***/

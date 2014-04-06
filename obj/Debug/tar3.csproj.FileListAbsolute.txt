@@ -1,0 +1,10 @@
+D:\לימודים\שנה ג'\סימסטר א'\פיתוח אפלקיצייות\תרגיל בית 3\tar3\tar3\bin\tar3.dll
+D:\לימודים\שנה ג'\סימסטר א'\פיתוח אפלקיצייות\תרגיל בית 3\tar3\tar3\bin\tar3.pdb
+D:\לימודים\שנה ג'\סימסטר א'\פיתוח אפלקיצייות\תרגיל בית 3\tar3\tar3\obj\Debug\tar3.dll
+D:\לימודים\שנה ג'\סימסטר א'\פיתוח אפלקיצייות\תרגיל בית 3\tar3\tar3\obj\Debug\tar3.pdb
+D:\לימודים\שנה ג'\סימסטר א'\פיתוח אפלקיצייות\תרגיל בית 3\tar3\tar3\obj\Debug\tar3.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Documents\Asaf\לימודים\מכללת רופין\שנה ג'\סמסטר א'\אפליקציות\תרגילים\tar3\tar3\bin\tar3.dll
+C:\Users\Asaf\Documents\Asaf\לימודים\מכללת רופין\שנה ג'\סמסטר א'\אפליקציות\תרגילים\tar3\tar3\bin\tar3.pdb
+C:\Users\Asaf\Documents\Asaf\לימודים\מכללת רופין\שנה ג'\סמסטר א'\אפליקציות\תרגילים\tar3\tar3\obj\Debug\tar3.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Documents\Asaf\לימודים\מכללת רופין\שנה ג'\סמסטר א'\אפליקציות\תרגילים\tar3\tar3\obj\Debug\tar3.dll
+C:\Users\Asaf\Documents\Asaf\לימודים\מכללת רופין\שנה ג'\סמסטר א'\אפליקציות\תרגילים\tar3\tar3\obj\Debug\tar3.pdb
